@@ -5,7 +5,7 @@
 
 - 🎓 Currently a Software Engineering Student at the University of Ottawa, Class of 2023
 - ❤️ Software Engineer at [Software For Love](https://github.com/Software-For-Love/software-for-love-site). Find my website here: https://www.softwareforlove.com/
-- 🚀 Avionics at uORocketry https://github.com/uorocketry/rocket-code-2020
+- 🚀 Avionics at [uORocketry](https://github.com/uorocketry/rocket-code-2020)
 - 🙋 Currently looking for internships starting in Summer 2022!
 - 💬 You can reach me via [![Linkedin Badge](https://img.shields.io/badge/-Ali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-aftab-muhammad/)](https://www.linkedin.com/in/ali-aftab-muhammad/)
 
