@@ -6,7 +6,8 @@
 - 🎓 Currently a Software Engineering Student at the University of Ottawa, Class of 2023
 - ❤️ Software Engineer at [Software For Love](https://github.com/Software-For-Love/software-for-love-site). Find our website here: https://www.softwareforlove.com/
 - 🚀 Avionics at [uORocketry](https://github.com/uorocketry/rocket-code-2020)
-![image](https://user-images.githubusercontent.com/37605427/116736788-57fcd580-a9be-11eb-85fa-295b68f6b072.png)
+- ![image](https://user-images.githubusercontent.com/37605427/116736918-8aa6ce00-a9be-11eb-8570-ac4daf9c48e6.png)
+
 
 
 - 🙋 Currently looking for internships starting in Summer 2022!
