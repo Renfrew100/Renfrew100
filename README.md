@@ -6,26 +6,7 @@
 Fourth-year student at the University of Ottawa pursuing a BASs in Software Engineering with an Engineering Management and Entrepreneurship Option.
 
 Professional skills I've gained knowledge/experience in include:
-- Python
-- Java
-- HTML
-- CSS
-- Javascript
-- Bootstrap
-- Angular
-- React
-- Node JS
-- Firebase
-- DevOps
-- GIT
-- Confluence
-- Elixir
-- Maven
-- Spotbugs
-- Selenium IDE
-- JIRA
-- Agile
-- Scrum 
+- Python, Java, HTML, CSS, Javascript, Bootstrap, Angular, React, Node JS, Firebase, DevOps, GIT, Confluence, Elixir, Maven, Spotbugs, Selenium IDE, JIRA, Agile, Scrum 
 
 - 🎓 Currently a Software Engineering Student at the University of Ottawa, Class of 2023
 - 🙋 Currently looking for internships starting in Summer 2022 (Cooperative Education placement)!
