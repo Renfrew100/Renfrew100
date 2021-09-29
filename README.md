@@ -5,7 +5,27 @@
 
 Fourth-year student at the University of Ottawa pursuing a BASs in Software Engineering with an Engineering Management and Entrepreneurship Option.
 
-Some of the programming languages I've gained knowledge/experience in include Python, Java, HTML, CSS, Javascript, and Kotlin. I have also experienced some of its libraries and frameworks. As well, have working experience with management developer tools such as confluence, JIRA, Gitlab, and use git as my main version control system. I am a big fan of the scrum approach used in companies.
+Professional skills I've gained knowledge/experience in include:
+- Python
+- Java
+- HTML
+- CSS
+- Javascript
+- Bootstrap
+- Angular
+- React
+- Node JS
+- Firebase
+- DevOps
+- GIT
+- Confluence
+- Elixir
+- Maven
+- Spotbugs
+- Selenium IDE
+- JIRA
+- Agile
+- Scrum 
 
 - 🎓 Currently a Software Engineering Student at the University of Ottawa, Class of 2023
 - 🙋 Currently looking for internships starting in Summer 2022 (Cooperative Education placement)!
