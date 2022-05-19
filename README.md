@@ -19,6 +19,7 @@ Extracurriculars
 - CUSEC Conference - Head Delegate
 - Software for Love Company - Developer
 - uORocketry Club - Developer @ Avionics
+- SESA - uOttawa Software Engineering Student Association @ uOttawa
 
 ## &#x1f4c8; My GitHub Stats
 
