@@ -8,7 +8,7 @@
 Professional skills I've gained knowledge/experience in include:
 - Python, Java, HTML, CSS, Javascript, Bootstrap, Angular, React, Node JS, Firebase, DevOps, GIT, Confluence, Elixir, Maven, Spotbugs, Selenium IDE, JIRA, Agile, Scrum 
 
-- 🙋 Currently interning at JSI Telecom!
+- 🙋 Looking for full-time / part-time roles
 - 💬 You can reach me via [![Linkedin Badge](https://img.shields.io/badge/-Ali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-aftab-muhammad/)](https://www.linkedin.com/in/ali-aftab-muhammad/)
 
 Extracurriculars
