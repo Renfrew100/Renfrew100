@@ -3,7 +3,8 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px"> Hello there! I'm Ali Aftab, Muhammad.
 
-- Fourth-year student at the University of Ottawa pursuing a BASs in Software Engineering with an Engineering Management and Entrepreneurship Option.
+- Fourth-year student at the University of Ottawa pursuing an Honours BSc in Computer Science with an Engineering Management and Entrepreneurship option. (2023)
+- Fourth-year student at the University of Ottawa pursuing a BASs in Software Engineering with an Engineering Management and Entrepreneurship Option. (2018 - 2022)
 
 Professional skills I've gained knowledge/experience in include:
 - Python, Java, HTML, CSS, Javascript, Bootstrap, Angular, React, Node JS, Firebase, DevOps, GIT, Confluence, Elixir, Maven, Spotbugs, Selenium IDE, JIRA, Agile, Scrum 
