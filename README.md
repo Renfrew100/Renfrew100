@@ -24,6 +24,6 @@ Extracurriculars
 
 ## &#x1f4c8; My GitHub Stats
 
-<img align="center" src="https://github-readme-stats.sigma-five.vercel.app/api/?username=Renfrew100&theme=dark&hide=stars"/>
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=Renfrew100&theme=dark&hide=stars"/>
 <br/>
 
