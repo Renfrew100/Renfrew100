@@ -21,6 +21,7 @@ Extracurriculars
 - Software for Love Company - Developer
 - uORocketry Club - Developer @ Avionics
 - SESA - uOttawa Software Engineering Student Association
+- SEDS Canada - Website Developer
 
 ## &#x1f4c8; My GitHub Stats
 
