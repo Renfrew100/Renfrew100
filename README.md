@@ -3,11 +3,13 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> Hello there! I'm Ali Aftab, Muhammad.
 
-- Fourth-year student at the University of Ottawa pursuing an Honours BSc in Computer Science with an Engineering Management and Entrepreneurship option. (2023-2024)
+- Incoming graduating student at the University of Ottawa pursuing an Honours BSc in Computer Science with an Engineering Management and Entrepreneurship option. (2023-2024)
 - Fourth-year student at the University of Ottawa pursuing a BASs in Software Engineering with an Engineering Management and Entrepreneurship Option. (2018 - 2022)
+- Pursuing MEng program at Western @ Fall 2024
+- Founder @ Space Fusion Inc. 
 
 Professional skills I've gained knowledge/experience in include:
-- Python, Java, HTML, CSS, Javascript, Bootstrap, Angular, React, Node JS, Firebase, DevOps, GIT, Confluence, Elixir, Maven, Spotbugs, Selenium IDE, JIRA, Agile, Scrum 
+- Python, Java, CI / CD, GitHub, GitLab, Maven, Selenium, Jenkins, JavaScript, Kubernetes, Microsoft Azure, Azure DevOps, Amazon Web Services, Vagrant, Docker, Node JS, Gradle, Firebase, Confluence, Elixir, Spotbugs, Jira, Agile, Scrum
 
 - 🙋 Looking for full-time / part-time roles
 - 💬 You can reach me via [![Linkedin Badge](https://img.shields.io/badge/-Ali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-aftab-muhammad/)](https://www.linkedin.com/in/ali-aftab-muhammad/)
