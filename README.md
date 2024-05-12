@@ -5,7 +5,7 @@
 
 - Incoming graduating student at the University of Ottawa pursuing an Honours BSc in Computer Science with an Engineering Management and Entrepreneurship option. (2023-2024)
 - Fourth-year student at the University of Ottawa pursuing a BASs in Software Engineering with an Engineering Management and Entrepreneurship Option. (2018 - 2022)
-- Pursuing MEng program at Western @ Fall 2024
+- Pursuing MEng in Medicine at Western @ Summer 2024
 - Founder @ Space Fusion Inc. 
 
 Professional skills I've gained knowledge/experience in include:
