@@ -3,7 +3,7 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> Hello there! I'm Ali Aftab, Muhammad.
 
-- Incoming graduating student at the University of Ottawa pursuing an Honours BSc in Computer Science with an Engineering Management and Entrepreneurship option. (2023-2024)
+- I have a degree in an Honours BSc in Computer Science with an Engineering Management and Entrepreneurship option. (2023-2024)
 - Fourth-year student at the University of Ottawa pursuing a BASs in Software Engineering with an Engineering Management and Entrepreneurship Option. (2018 - 2022)
 - Pursuing MEng in Medicine at Western @ Summer 2024
 - Founder @ Space Fusion Inc. 
