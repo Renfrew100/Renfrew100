@@ -11,7 +11,7 @@
 Professional skills I've gained knowledge/experience in include:
 - Python, Java, CI / CD, GitHub, GitLab, Maven, Selenium, Jenkins, JavaScript, Kubernetes, Microsoft Azure, Azure DevOps, Amazon Web Services, Vagrant, Docker, Node JS, Gradle, Firebase, Confluence, Elixir, Spotbugs, Jira, Agile, Scrum
 
-- 🙋 Looking for full-time / part-time roles
+- 🙋 Currently Seeking a Grad Position June 2025'
 - 💬 You can reach me via [![Linkedin Badge](https://img.shields.io/badge/-Ali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ali-aftab-muhammad/)](https://www.linkedin.com/in/ali-aftab-muhammad/)
 
 Extracurriculars
